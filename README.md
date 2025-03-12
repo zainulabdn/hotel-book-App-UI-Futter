@@ -1,3 +1,3 @@
-# Airbnb Host Passport made with Flutter
+# Host Passport made with Flutter
 
 Useful Links:
